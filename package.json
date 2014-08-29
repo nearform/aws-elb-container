@@ -1,0 +1,33 @@
+{
+  "name": "aws-elb-container",
+  "description": "nscale aws elb container",
+  "keywords": [
+    "nearForm",
+    "nscale",
+    "deployer",
+    "docker",
+    "container",
+    "aws",
+    "ami",
+    "elb"
+  ],
+  "version": "0.0.1",
+  "license": "Artistic License 2.0",
+  "author": "Peter Elger (http://nearform.com/)",
+  "contributors": [
+    "Peter Elger <elger.peter@gmail.com> (http://peterelger.com/)"
+  ],
+  "main": "lib/container",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "bunyan": "~1.0.0",
+    "aws-sdk": "~2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nearform/aws-elb-container.git"
+  },
+  "devDependencies": {}
+}
