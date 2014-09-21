@@ -15,7 +15,8 @@
   "license": "Artistic License 2.0",
   "author": "Peter Elger (http://nearform.com/)",
   "contributors": [
-    "Peter Elger <elger.peter@gmail.com> (http://peterelger.com/)"
+    "Peter Elger <elger.peter@gmail.com> (http://peterelger.com/)",
+    "Matteo Collina <matteo.collina@nearform.com>"
   ],
   "main": "lib/container",
   "engines": {
@@ -25,7 +26,8 @@
     "async": "^0.9.0",
     "aws-sdk": "~2.0.15",
     "bunyan": "~1.0.0",
-    "lodash": "^2.4.1"
+    "lodash": "^2.4.1",
+    "nscale-util": "^0.1.6"
   },
   "repository": {
     "type": "git",
