@@ -27,7 +27,8 @@
     "aws-sdk": "~2.0.15",
     "bunyan": "~1.0.0",
     "lodash": "^2.4.1",
-    "nscale-util": "^0.3.1"
+    "nscale-util": "^0.3.1",
+    "traverse": "^0.6.6"
   },
   "repository": {
     "type": "git",
