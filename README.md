@@ -4,8 +4,8 @@
 
 __[nscale]__ is an open toolkit supporting configuration, build and deployment of connected container sets. __nscale__ is ideally used to support the development and operation of __microservice__ based systems.
 
-# Amazon ELB Container
-Manages the creation, deployment, linking and unlinking of the Amazon ELB for __nscale__. The
+# Amazon Elastic Load Balancer Container
+Manages the creation, deployment, linking and unlinking of an Amazon Elastic Load Balancer for __nscale__. The
 aws-elb-container is used internally by __nscale__, see __nscale__'s [documentation] for information on how
 to deploy using Amazon Web Services as the target platform.
 
